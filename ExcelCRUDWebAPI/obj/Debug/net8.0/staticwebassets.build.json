@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "O8ZtpGE0PpmDWr0rmjCW3WmPmttvNH//SQqL5GJuh3I=",
+  "Source": "ExcelCRUDWebAPI",
+  "BasePath": "_content/ExcelCRUDWebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
